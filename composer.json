@@ -15,5 +15,12 @@
         "psr-4": {
             "Reborn\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Reborn\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
