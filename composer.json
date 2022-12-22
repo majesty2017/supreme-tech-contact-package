@@ -1,5 +1,5 @@
 {
-    "name": "reborn/contact",
+    "name": "supremetech/contact",
     "description": "This will send email to admin and save contact to database",
     "type": "library",
     "license": "MIT",
